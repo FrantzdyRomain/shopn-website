@@ -3,9 +3,9 @@
 // define('DB_USER','root');
 // define('DB_PASS' ,'');
 // define('DB_NAME', 'dbtuts');
-define (DB_USER, "iphoneappuser");
-define (DB_PASSWORD, "Fr040791$");
-define (DB_DATABASE, "shopn_database");
+define (DB_USER, "");
+define (DB_PASSWORD, "");
+define (DB_DATABASE, "");
 define (DB_HOST, "localhost");
 
 
